@@ -161,8 +161,8 @@ nav a:hover {
 
 /* Social links */
 .social-links {
-    position: absolute;
-    bottom: 2rem;
+    position: static; /* Remove absolute positioning */
+    margin-top: 1rem;
     display: flex;
     gap: 1rem;
 }
@@ -326,4 +326,5 @@ h2 {
         justify-content: center;       /* Center tech tags on mobile */
     }
 }
+
 
