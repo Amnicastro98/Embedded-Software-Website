@@ -273,6 +273,14 @@ h2 {
     padding: 2rem;
 }
 
+/* Project screenshot styling */
+.project-screenshot {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
 /* Section padding */
 .projects-section,
 .references-section {
@@ -326,5 +334,6 @@ h2 {
         justify-content: center;       /* Center tech tags on mobile */
     }
 }
+
 
 
