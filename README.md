@@ -15,7 +15,7 @@ A clean, modern website showcasing my embedded C programming projects focused on
 - CSS Grid & Flexbox
 
 ## View Live
-[Visit Embedded Software Website](#)  <!-- Update with live URL if available -->
+[Visit Embedded Software Website](https://amnicastro98.github.io/Embedded-Software-Website/)  <!-- Update with live URL if available -->
 
 ## Local Development
 1. Clone the repository
